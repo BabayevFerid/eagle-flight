@@ -1,0 +1,14 @@
+# Sistem faylları
+.DS_Store
+Thumbs.db
+
+# IDE / Editor faylları
+.vscode/
+.idea/
+
+# Bütün müvəqqəti fayllar
+*.log
+*.tmp
+
+# Node.js / paket faylları (əgər gələcəkdə əlavə etsən)
+node_modules/
